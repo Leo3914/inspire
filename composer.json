@@ -1,0 +1,17 @@
+{
+    "name": "leo3914/inspire",
+    "autoload": {
+        "psr-4": {
+            "Leo3914\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phyopyae",
+            "email": "phyopyae.3914@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle":"^7.0.1"
+    }
+}
